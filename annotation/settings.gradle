@@ -1,0 +1,8 @@
+include ':common'
+include ':personal'
+include ':order'
+include ':ArouterApi'
+include ':compiler'
+include ':annotation'
+include ':app'
+rootProject.name = "Annotation"
